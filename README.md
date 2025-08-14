@@ -53,4 +53,4 @@ Um sistema CRUD simples para gerenciar funcionários de uma empresa.
 
 Copie e cole :) 
    ```bash
-   git clone https://github.com/SEU_USUARIO/Portif-lio.git
+   git clone https://github.com/pedrofouchy/Portif-lio.git
